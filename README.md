@@ -1,2 +1,2 @@
-# Demo-1
-initial files
+This is my first Repo
+Updated README file
